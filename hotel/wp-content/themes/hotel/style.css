@@ -1,0 +1,37 @@
+/*
+Theme Name: Hotel tema
+Author: Brigita Perković
+Description: Hotel tema
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: vuv
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: black; 
+}
+
+nav{
+    background-color: black;
+    margin-right: 100%;
+    margin-top: -2.3%;
+    
+}
+
+.headerimg{
+    width: 35%; 
+    margin-bottom: 7%; 
+    margin-top: 8%;
+    margin-right: 20%;
+}
+
+.containercard{
+    text-align: center; 
+}
